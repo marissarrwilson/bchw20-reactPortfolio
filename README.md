@@ -23,13 +23,13 @@ The user can navigate the site using the tabs on the navbar - "About Me", "Portf
 ## Screenshots
 
 * index.html
-![Index.html page](images/16-home.png)
+![home.js page](portfolio/src/views/images/16-home.png)
 
 * portfolio.html
-![portfolio.html page](images/16-portfolio.png)
+![portfolio.js page](portfolio/src/views/images/16-portfolio.png)
 
 * contact.html
-![contact.html page](images/16-contact.png)
+![contact.js page](portfolio/src/views/images/16-contact.png)
 
 ## Credits
 
