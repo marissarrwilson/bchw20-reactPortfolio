@@ -14,7 +14,7 @@
 This is my personal portfolio made with react, which includes links to my Linkedin, github projects and repositories and resume.
 In the updated portfolio, I updated my pinned repositories on Github to include screenshots in the READMEs, added examples of the work I've done in the portfolio tab, and added some CSS styling to all of the pages so that they had the same color scheme.
 
-Link to deployed application: [https://marissarrwilson.github.io/bchw16-updatedPortfolio/](https://marissarrwilson.github.io/bchw16-updatedPortfolio/)
+Link to deployed application: []()
 
 ## Usage
 
@@ -22,13 +22,13 @@ The user can navigate the site using the tabs on the navbar - "About Me", "Portf
 
 ## Screenshots
 
-* index.html
+* Home
 ![home.js page](portfolio/src/views/images/16-home.png)
 
-* portfolio.html
+* Portfolio
 ![portfolio.js page](portfolio/src/views/images/16-portfolio.png)
 
-* contact.html
+* Contact
 ![contact.js page](portfolio/src/views/images/16-contact.png)
 
 ## Credits
