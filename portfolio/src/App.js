@@ -4,6 +4,8 @@ import Portfolio from './views/Portfolio';
 import Home from './views/Home';
 import Contact from './views/Contact';
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+import Footer from './components/Footer'
+
 
 function App() {
   return (
@@ -26,7 +28,7 @@ function App() {
 
         </Switch>
       </div>
-
+      <Footer />
     </div>
   );
 }
