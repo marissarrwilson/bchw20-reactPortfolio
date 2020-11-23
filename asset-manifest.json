@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/bchw20-reactPortfolio/static/css/main.735c69ac.chunk.css",
+    "main.js": "/bchw20-reactPortfolio/static/js/main.d1efcd94.chunk.js",
+    "main.js.map": "/bchw20-reactPortfolio/static/js/main.d1efcd94.chunk.js.map",
+    "runtime-main.js": "/bchw20-reactPortfolio/static/js/runtime-main.d1a2de1d.js",
+    "runtime-main.js.map": "/bchw20-reactPortfolio/static/js/runtime-main.d1a2de1d.js.map",
+    "static/js/2.0647e91c.chunk.js": "/bchw20-reactPortfolio/static/js/2.0647e91c.chunk.js",
+    "static/js/2.0647e91c.chunk.js.map": "/bchw20-reactPortfolio/static/js/2.0647e91c.chunk.js.map",
+    "static/js/3.98ef5204.chunk.js": "/bchw20-reactPortfolio/static/js/3.98ef5204.chunk.js",
+    "static/js/3.98ef5204.chunk.js.map": "/bchw20-reactPortfolio/static/js/3.98ef5204.chunk.js.map",
+    "index.html": "/bchw20-reactPortfolio/index.html",
+    "static/css/main.735c69ac.chunk.css.map": "/bchw20-reactPortfolio/static/css/main.735c69ac.chunk.css.map",
+    "static/js/2.0647e91c.chunk.js.LICENSE.txt": "/bchw20-reactPortfolio/static/js/2.0647e91c.chunk.js.LICENSE.txt",
+    "static/media/PasswordResult.656e08a8.png": "/bchw20-reactPortfolio/static/media/PasswordResult.656e08a8.png",
+    "static/media/Prompt-1.cd21894a.png": "/bchw20-reactPortfolio/static/media/Prompt-1.cd21894a.png",
+    "static/media/Screenshot1.91bd5237.png": "/bchw20-reactPortfolio/static/media/Screenshot1.91bd5237.png",
+    "static/media/homepage.b0ef3cc7.png": "/bchw20-reactPortfolio/static/media/homepage.b0ef3cc7.png",
+    "static/media/pic3.2123157c.jpeg": "/bchw20-reactPortfolio/static/media/pic3.2123157c.jpeg",
+    "static/media/post.4de9c1fe.png": "/bchw20-reactPortfolio/static/media/post.4de9c1fe.png",
+    "static/media/search.ad847bf3.png": "/bchw20-reactPortfolio/static/media/search.ad847bf3.png",
+    "static/media/wfd1.6fe6e5a2.jpg": "/bchw20-reactPortfolio/static/media/wfd1.6fe6e5a2.jpg",
+    "static/media/wfd2.fe488970.jpg": "/bchw20-reactPortfolio/static/media/wfd2.fe488970.jpg",
+    "static/media/wfd3.f6ec91bf.jpg": "/bchw20-reactPortfolio/static/media/wfd3.f6ec91bf.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1a2de1d.js",
+    "static/js/2.0647e91c.chunk.js",
+    "static/css/main.735c69ac.chunk.css",
+    "static/js/main.d1efcd94.chunk.js"
+  ]
+}
