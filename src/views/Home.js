@@ -1,6 +1,6 @@
 import React from "react";
-import './Home.css'
-import headshot from './images/pic3.jpeg'
+import "./Home.css";
+import headshot from "./images/pic3.jpeg";
 
 function Home(props) {
   return (
@@ -19,11 +19,17 @@ function Home(props) {
 
         <div className="col-8">
           <p>
-            Hello World! I am a recent Queen’s University graduate with a BSc in
-            Environmental Sciences and am currently enrolled in University of
-            Toronto’s SCS Coding Bootcamp. I am bilingual (French and English)
-            and possess the leadership, background knowledge and drive to excel
-            in a learning-based role in the field of environmental tech.
+            Hello World! I am bilingual (French and English) full-stack web
+            developer with experience working with HTML/CSS, JavaScript and
+            React. I am Interested in refining my skills in web design and
+            deepening my knowledge in back-end web development. I'm Looking to
+            utilize my background in environmental science (BSc) to create
+            sustainable solutions through programming. I am most effective at
+            problem-solving and visualizing a themed UI to develop user-friendly
+            web applications. I'm known among coworkers for good communication,
+            work ethic, creativity and attention to detail, and possess the
+            leadership, background knowledge and drive to excel in a
+            learning-based role in the field of environmental tech.
           </p>
           <p>
             I am currently seeking an opportunity where I can learn and delve
@@ -49,7 +55,7 @@ function Home(props) {
             <li>
               Resume - PDF:{" "}
               <a
-                href="https://drive.google.com/file/d/1xl1DpLfJVbwaZHClk0a7S0TxYUVhfLEZ/view?usp=sharing"
+                href="https://docs.google.com/document/d/1HdLLGfZGL63RfK2XURthGTctJve-56r5zIhcOFslMWc/edit"
                 target="_blank"
               >
                 Click here
