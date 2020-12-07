@@ -33,7 +33,7 @@ function Home(props) {
           </p>
           <p>
             I am currently seeking an opportunity where I can learn and delve
-            deeper into programming languages such as JavaScript, mySQL and
+            deeper into programming languages such as JavaScript, React and
             Python.{" "}
           </p>
           <ul>
